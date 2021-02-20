@@ -1391,7 +1391,7 @@ public abstract class Geometry
   }
 
   /**
-   * Computes a <code>Geometry </code> representing the closure of the point-set
+   * Computes a <code>Geometry</code> representing the closure of the point-set
    * which is the union of the points in this <code>Geometry</code> which are not
    * contained in the <code>other</code> Geometry,
    * with the points in the <code>other</code> Geometry not contained in this
